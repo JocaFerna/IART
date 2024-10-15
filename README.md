@@ -1,9 +1,9 @@
-# IART 2023/2024
+# AI 2023/2024
 
-## Projetos e Exercícios das Práticas
-Este repositório contém os projetos desenvolvidos pelo Grupo A1_29 para a disciplina de Inteligência Artificial (IART) durante o ano letivo 2023/2024 na Faculdade de Engenharia da Universidade do Porto (FEUP).
+## Projects and Exercises from Pratical Classes
+This repository contains projects and exercises from pratical classes from group A1_29 on the UC IART (Artifficial Inteligence).
 
-## Membros do Grupo
+## Group Members
 | Nome             | Número    | E-mail               |
 | ---------------- | --------- | -------------------- |
 | Francisco Lopes  | 202108796 | up202108796@up.pt    |
